@@ -8,7 +8,7 @@ Check [**our website**]( https://qis-mri.unibe.ch/) for more info!
 
 [<img src="work.png">]()
 
-# Meet the QIS-lab team!
+# Meet our team
 
 [<img src="https://qis-mri.unibe.ch/wp-content/uploads/IMG_0301cropped-scaled-e1651087704454.jpg">]()
 
