@@ -5,4 +5,3 @@ Our lab is physically located in the Swiss Institute for Translational and Entre
 
 Check [**our website**]( https://qis-mri.unibe.ch/) for more info!
 
-<!-- https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax --!> 
